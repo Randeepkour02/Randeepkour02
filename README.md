@@ -26,15 +26,8 @@ BCA graduate exploring React.js, UI/UX design, and constantly improving my codin
 
 ---
 
-## 📁 Portfolio
 
-Explore some of my creative and responsive website projects — from eCommerce to modern UI designs.  
-🎨 Each project reflects a mix of clean code, interactive design, and attention to detail.  
-📌 [More coming soon...]
-
----
-
-## 🤝 Let’s Connect
+[## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -50,7 +43,7 @@ Explore some of my creative and responsive website projects — from eCommerce t
   <img src="https://img.shields.io/badge/Instagram-randeep.xyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-</div>
+</div>](https://www.instagram.com/randeep.xyz)
 
 ---
 
