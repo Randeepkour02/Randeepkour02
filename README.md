@@ -27,23 +27,22 @@ BCA graduate exploring React.js, UI/UX design, and constantly improving my codin
 ---
 
 
-[## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-<div align="center">
-
-<a href="mailto:kourandeep909@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-kourandeep909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/randeep-kour-189659259" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Randeep%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/randeep.xyz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-randeep.xyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>](https://www.instagram.com/randeep.xyz)
+<p align="center">
+  <a href="https://www.linkedin.com/in/randeep-kour-189659259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/randeep.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:kourandeep909@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://randeepkour02.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
 
 ---
 
