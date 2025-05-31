@@ -12,7 +12,7 @@ BCA graduate exploring React.js, UI/UX design, and constantly improving my codin
 
 ## 💻 Tech Stack
 
-<p align="center" style="transform: scale(1.2); transform-origin: center;">
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,19 +26,31 @@ BCA graduate exploring React.js, UI/UX design, and constantly improving my codin
 
 ---
 
-## 🔗 Let’s Connect
+## 📁 Portfolio
 
-<p align="center">
-  <a href="mailto:kourandeep909@gmail.com" target="_blank" rel="noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-kourandeep909@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/randeep-kour-189659259" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Randeep%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/randeep.xyz" target="_blank" rel="noreferrer">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-randeep.xyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+Explore some of my creative and responsive website projects — from eCommerce to modern UI designs.  
+🎨 Each project reflects a mix of clean code, interactive design, and attention to detail.  
+📌 [More coming soon...]
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+
+<a href="mailto:kourandeep909@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-kourandeep909@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/randeep-kour-189659259" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Randeep%20Kour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/randeep.xyz" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-randeep.xyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -52,4 +64,3 @@ BCA graduate exploring React.js, UI/UX design, and constantly improving my codin
 ---
 
 > "Keep building. Keep learning. Keep blooming." 🌸
-
